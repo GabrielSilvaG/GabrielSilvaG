@@ -1,12 +1,12 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gabriel S.
 
-- 💼 Atualmente estou desempregado, e buscando uma oportunidade de ingressar na área da tecnoloia.
-- 📚 Atualmente estou aprendendo banco de dados, e me aprofundamdo mais em JavaScript que foi a linguagem iniaial que escolhi para mim.
-- 🆕 Estou migrando para a área da técnologia, meu antigo emprego era na área da administração, entao para mim, tudo desse mundo é novo, e muito interessante.
-- 📖 Tenho um conhecimento em JavaScript, um pouco de HTML e CSS, vercionamento com Git e Github, conheço node.js, aprendendo banco de dados usando o MySQL, também tenho um pouco de conhecimento sobre DOM, junto com tudo isso tenho curiosidade e força de vontade o bastante para sempre ir em busca de mais conhecimento.
+- 💼 Atualmente estou desempregado, e buscando uma oportunidade de ingressar na área da tecnologia.
+- 📚 Atualmente estou aprendendo banco de dados, e me aprofundando mais em JavaScript que foi a linguagem inicial que escolhi para mim.
+- 🆕 Estou migrando para a área da tecnologia, meu antigo emprego era na área da administração, então para mim, tudo desse mundo é novo, e muito interessante.
+- 📖 Tenho um conhecimento em JavaScript, um pouco de HTML e CSS, versionamento com Git e GitHub, conheço Node.js, aprendendo banco de dados usando o MySQL, também tenho um pouco de conhecimento sobre DOM, junto com tudo isso tenho curiosidade e força de vontade suficiente para sempre ir em busca de mais conhecimento.
 - 🌎 Moro em São Paulo, capital. 
-- ⚡ Busco sempre aprender aquilo que é necessário para o mercado de trabalho, codá é oque oque mais gosto de fazer no momento, tenho poucos projetos, porém os que tenho foram feitos com dedicação e esforço, sempre tentando absorve o máximo para que o próximo fosse mais fácil. Meu sonho é um via viver de tudo isso, escrever código, debugar, corrigir, implantar, testar e tudo mais oque der pra fazer nesse mundo da tecnologia.  UM DIA EU CHEGO LÁ!
+- ⚡ Busco sempre aprender o que é necessário para o mercado de trabalho. Codar é o que mais gosto de fazer no momento. Tenho poucos projetos, porém os que tenho foram feitos com dedicação e esforço, sempre tentando absorver o máximo para que o próximo seja mais fácil. Meu sonho é um dia viver de tudo isso: escrever código, depurar, corrigir, implantar, testar e tudo mais que der para fazer nesse mundo da tecnologia. UM DIA EU CHEGO LÁ!
 
 
 ## Ferramentas e Tecnologias
