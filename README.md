@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Gabriel S.
+# 👋 Hello! Bem vindo ao meu perfil.
+## Meu nome é Gabriel S.
 
 - 💼 Atualmente estou desempregado, e buscando uma oportunidade de ingressar na área da tecnologia.
 - 📚 Atualmente estou aprendendo banco de dados, e me aprofundando mais em JavaScript que foi a linguagem inicial que escolhi para mim.
